@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(61, 134, 198);
+    font-size: 10em;
+  }
+
+  h2{
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(48, 86, 132);
+  }
+
+  img{
+      width: 100%;
+  }
+
+  @media only screen and (max-width: 1000px) {
+      h1 {
+          font-size: 5em;
+      }
+  }
